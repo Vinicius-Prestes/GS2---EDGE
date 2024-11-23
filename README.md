@@ -1,6 +1,8 @@
 # Monitoramento de Potência Solar com ESP32, MQTT e Node-RED
 
 Este projeto implementa um sistema de monitoramento em tempo real da potência gerada por uma placa solar, utilizando o sensor LDR para leitura da luminosidade, envio dos dados via MQTT e visualização no Node-RED.
+Para visualizar a aplicação criada basta acessar o link:
+https://wokwi.com/projects/415273094809728001
 
 ## Principais Funcionalidades
 
